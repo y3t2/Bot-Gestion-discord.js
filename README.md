@@ -28,13 +28,21 @@ ABYSE-BOT2 is a multifunctional Discord bot designed for server protection and m
 4. Launch the bot with `node index.js`
 
 ## 🔧 Configuration
-Create a `config.js` file in the project root with the following information:
+Update a Client > `config.js` file in the project root with the following information:
 ```js
 module.exports = {
-    token: 'YOUR_TOKEN',
-    clientId: 'YOUR_BOT_ID',
-    guildId: 'YOUR_SERVER_ID'
-}
+    token: '', 
+    prefix: '+',              
+    color: '#422244',        
+    footer: '© Powered by d_1114 and y3t2 ', 
+    WEATHER_API_KEY: '787a495512a63a497d8feac224c1d72e', 
+    link: 'https://discord.gg/PK6tuf8amW', 
+    dev: 'd_1114 and y3t2' ,           
+    staff: [
+        "1166838204025016342",
+        "635808412294184971"     
+    ]
+};
 ```
 
 ## 📜 License
