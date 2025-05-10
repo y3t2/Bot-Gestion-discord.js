@@ -13,7 +13,7 @@ ABYSE-BOT2 is a multifunctional Discord bot designed for server protection and m
 - And much more...
 
 ## 👥 Developers
-- [D_1114](https://github.com/d_1114) - Lead Developer
+- [D_1114](https://github.com/NahByeBye) - Lead Developer
 - [Y3T2](https://github.com/y3t2) - Developer
 
 ## 📋 Prerequisites
