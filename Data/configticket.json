@@ -1,0 +1,11 @@
+{
+    "title": "Support Ticket-djibril",
+    "description": "Crée un ticket pour toutes demandes de renseignement",
+    "footer": "• © ΛƁYSΣ-2024",
+    "button_label": "djibril Ticket",
+    "image_url": "https://i.pinimg.com/236x/b1/b4/73/b1b473ca8b02dc66a928fe14ad4767bc.jpg",
+    "ticket_category_id": "1287467171416641638",
+    "view_role_ids": [
+        "1262175072270028832"
+    ]
+}
