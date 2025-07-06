@@ -10,4 +10,4 @@ Attribution (BY): You must give appropriate credit to the original author of the
 
 3. For more information about this license and to view the full terms, please visit: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en
 
-To learn more about the creator, please visit: https://github.com/y3t2
+To learn more about the creator, please visit: https://github.com/y3t2 | https://github.com/NahByeBye 
